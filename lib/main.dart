@@ -1,6 +1,7 @@
+// Estudiante: Waren Sanchez || Matricula: 2023-1198
+
 import 'package:flutter/material.dart';
 import 'package:geoapp/screens/input_screen.dart';
-
 
 void main() {
   runApp(const MyApp());
